@@ -1,9 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Elight Labs Web Portfolio
 
-# Nextjs Typescript TailwindCSS Framer-Motion Starter Template
+## Run this project
 
-## Ready to go Nextjs template with typescript, tailwindCSS and framer-motion setup.
+### Requirements 
 
-## Page Transition has been setup, you can use framer motion initial, animate and exit states to make page transitions. 
+Node.js latest recommended version
 
-## Default eslint linter is also added
+### Script
+`yarn install` - First run this to install all dependencies
+
+`yarn dev` - Development Version
+
+`yarn build`
+`yarn export`
+`npx serve out/` - To run the Production Version
