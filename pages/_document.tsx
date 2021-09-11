@@ -36,8 +36,9 @@ class Document extends NextDocument<Props> {
                     <meta name="msapplication-TileColor" content="#454545" />
                     <meta name="theme-color" content="#454545" />
                 </Head>
-                <body className="font-main bg-background w-[100vw] max-w-[100vw] overscroll-x-none overflow-x-hidden ">
+                <body className="font-main bg-background w-[100vw] max-w-[100vw]  ">
                     <Main />
+                    
                     <NextScript />
                 </body>
             </Html>

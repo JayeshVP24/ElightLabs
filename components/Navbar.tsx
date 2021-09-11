@@ -110,7 +110,7 @@ const Navbar: React.FC<{ current: string }> = ({ current }) => {
         [bgTrans],
         undefined,
         undefined,
-        100
+        300
     );
 
     return (
