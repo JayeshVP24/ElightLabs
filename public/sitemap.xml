@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">  
+<url>    <loc>https://elightlabs.com/</loc>    
+<changefreq>daily</changefreq>  </url>  <url>    
+<loc>https://elightlabs.com/contact/</loc>    
+<changefreq>daily</changefreq>  </url>  <url>    
+<loc>https://elightlabs.com/startups/</loc>    
+<changefreq>daily</changefreq>  </url>  <url>    
+<loc>https://elightlabs.com/work/</loc>    
+<changefreq>daily</changefreq>  </url>  <url>   
+ <loc>https://elightlabs.com/labs/</loc>  
+   <changefreq>daily</changefreq>  </url> 
+    <url> 
+      <loc>https://elightlabs.com/services/</loc>   
+       <changefreq>daily</changefreq>  </url>
+       
+    <url> 
+      <loc>https://elightlabs.com/team/</loc>   
+       <changefreq>daily</changefreq>  </url>
+    <url> 
+      <loc>https://elightlabs.com/careers/</loc>   
+       <changefreq>daily</changefreq>  </url>
+       
+       </urlset>
